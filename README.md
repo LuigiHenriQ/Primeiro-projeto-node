@@ -1,6 +1,3 @@
-# Primeiro-projeto-node
-🏎️ Um simulador de corrida dinâmico baseado no universo de Mario Kart, desenvolvido em JavaScript (Node.js) utilizando lógica de atributos, dados e programação assíncrona.
-
 # 🏎️ Mario Kart JS - Simulator
 
 Este é um projeto desenvolvido em JavaScript (Node.js) que simula uma corrida de 5 rodadas entre os personagens clássicos do universo Mario Kart. O motor da corrida calcula os resultados combinando a sorte dos dados com os atributos específicos de cada corredor.
